@@ -1,4 +1,5 @@
 # Lady-BugsSociety
+![alt text](https://github.com/piccoloplay/Lady-BugsSociety/blob/main/Assets/group.png)
 This is my project for https://itch.io/jam/game-off-2021
 This game wants to pay homage to the LGBT community. 
 It is a fighting game. You can play it on your android device. 
