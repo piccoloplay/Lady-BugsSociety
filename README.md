@@ -3,7 +3,9 @@
 
 This is my project for https://itch.io/jam/game-off-2021
 
-This game wants to pay homage to the LGBT community. 
+Lady-Bugs Society is a game that wishes to pay homage to feminism and the LGBTIQA+​ community in a fun way.
+
+It is a weapon-based fighting game with DDR-like sections that you can play on your Android device. 
 
 It is a fighting game. You can play it on your android device. 
 
