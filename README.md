@@ -1,13 +1,13 @@
 # Lady-BugsSociety
 [![alt text](https://github.com/piccoloplay/Lady-BugsSociety/blob/main/Assets/group.png)](https://www.youtube.com/watch?v=vg14DJY93EM)
 
-This is my project for https://itch.io/jam/game-off-2021
+This is the project for https://itch.io/jam/game-off-2021
 
-Lady-Bugs Society is a game that wishes to pay homage to feminism and the LGBTIQA+​ community in a fun way.
+Lady-Bugs Society is a game that wishes to pay homage to feminism and the LGBTQIA+ community in a fun way.
 
 It is a weapon-based fighting game with DDR-like sections that you can play on your Android device. 
 
-It is a fighting game. You can play it on your android device. 
+
 
 GAMEPLAY
 
@@ -23,7 +23,7 @@ Just download the apk and start to play! Here is the link.
 
 https://piccoloplay.itch.io/lady-bugssociety
 
-First of all i want to show the asset that i used in my project.
+These are the asset that i used in my project.
 
 Music:
 
@@ -75,4 +75,4 @@ Very very nice!
 
 I hope it is all ok! Have fun and i hope you enjoy my game!
 
-If you want to try my project remember to switch platform to android in Unity.
+If you want to try this project remember to switch platform to android in Unity.
