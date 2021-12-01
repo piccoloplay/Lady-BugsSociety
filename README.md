@@ -7,6 +7,11 @@ This game wants to pay homage to the LGBT community.
 
 It is a fighting game. You can play it on your android device. 
 
+GAMEPLAY
+
+Dance, Fight, Dance and than fight again! Have fun!
+
+
 To move your character the game uses the accelerometer of your android device.
 
 
@@ -64,4 +69,4 @@ Very very nice!
 
 I hope it is all ok! Have fun and i hope you enjoy my game!
 
-
+If you want to try my project remember to switch platform to android in Unity.
