@@ -69,6 +69,8 @@ https://github.com/vrm-c/UniVRM/releases
 
 Very very nice! 
 
+![alt text](https://github.com/piccoloplay/Lady-BugsSociety/blob/main/Assets/GUI/LOADING-IMAGES/Mosquito%2BDragonfly.png)
+
 I hope it is all ok! Have fun and i hope you enjoy my game!
 
 If you want to try my project remember to switch platform to android in Unity.
