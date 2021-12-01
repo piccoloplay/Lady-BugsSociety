@@ -6,4 +6,18 @@ Music:
 https://drive.google.com/drive/folders/1jafgQdxgMorNF8BAGzdo_5VlFWsn3Gm5
 
 https://www.youtube.com/channel/UCmh7WlCTsd4y7vcZx4N5Yfw
-The music come from the youtube chanel turbo.
+
+The music come from the youtube chanel turboAlt.
+
+Other music: https://ternox.itch.io/vn-music
+
+GUI: 
+https://loudeyes.itch.io/dating-sim-ui-pack
+https://pzuh.itch.io/free-bubble-game-button-pack
+
+Unity Chan
+https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
+
+
+
+
