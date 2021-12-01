@@ -55,7 +55,7 @@ https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
 
 Animation:
 
-https://juliovii.itch.io/foodpk01
+https://www.mixamo.com/#/
 
 For the 3D models i used Vroid:
 
