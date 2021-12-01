@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SelectCharacter/intro.unity
+    guid: 477ae21e42d48442ba160b216f42de6b
+  - enabled: 1
+    path: Assets/Scenes/SelectCharacter/ChooseYourCharacet.unity
+    guid: 56fe032027af64dfdae956104209554c
+  - enabled: 1
+    path: Assets/Scenes/Experiments/1stage.unity
+    guid: c95ed977765b44b6abac2ce8c9fb096c
+  - enabled: 1
+    path: Assets/Scenes/Experiments/2stage.unity
+    guid: 7da4cb133ff6c4adeafc2fdc104a26c1
+  - enabled: 1
+    path: Assets/Scenes/Experiments/3stage.unity
+    guid: 4303cd8e6aaef4802a11d58df2bdd64f
+  - enabled: 1
+    path: Assets/Scenes/Experiments/4stage.unity
+    guid: a19eab831880c4084b4951b7d1cc6583
+  - enabled: 1
+    path: Assets/Scenes/Experiments/5stage.unity
+    guid: bc950b502db1941269f11ba1857793a3
+  - enabled: 1
+    path: Assets/Scenes/WINLOSESCENE/winlose.unity
+    guid: 844e0ca1d75304d44952f358b8e4184c
+  - enabled: 1
+    path: Assets/Scenes/LOADING/LOADING.unity
+    guid: 476b111d32eb94237a882161809df96d
+  m_configObjects: {}
