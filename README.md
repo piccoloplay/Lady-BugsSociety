@@ -1,5 +1,5 @@
 # Lady-BugsSociety
-![alt text](https://github.com/piccoloplay/Lady-BugsSociety/blob/main/Assets/group.png)
+[![alt text](https://github.com/piccoloplay/Lady-BugsSociety/blob/main/Assets/group.png)](https://www.youtube.com/watch?v=vg14DJY93EM)
 
 This is my project for https://itch.io/jam/game-off-2021
 
