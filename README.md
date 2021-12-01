@@ -21,10 +21,12 @@ Other music: https://ternox.itch.io/vn-music
 GUI: 
 https://loudeyes.itch.io/dating-sim-ui-pack
 https://pzuh.itch.io/free-bubble-game-button-pack
-
+Textures:
+https://juliovii.itch.io/foodpk01
 Unity Chan:
 https://assetstore.unity.com/packages/3d/characters/unity-chan-model-18705
-
+Animation:
+https://juliovii.itch.io/foodpk01
 For the 3D models i used Vroid:
 
 https://vroid.com/en/studio
