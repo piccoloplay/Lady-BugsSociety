@@ -11,6 +11,8 @@ GAMEPLAY
 
 Dance, Fight, Dance and than fight again! Have fun!
 
+![alt text](https://github.com/piccoloplay/Lady-BugsSociety/blob/main/Assets/GUI/LOADING-IMAGES/Bee%2BLadybug.png)
+
 
 To move your character the game uses the accelerometer of your android device.
 
